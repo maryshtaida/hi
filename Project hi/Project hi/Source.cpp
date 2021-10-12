@@ -71,7 +71,7 @@ int main()
         if (sec % t == 0)
             cout << "del=" << t << endl;
     }
-    cout << "hello" << endl;
+   
     return 0;
 
 }
